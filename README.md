@@ -4,4 +4,4 @@ It is a simple Chat Server application that is made up with the combination of t
 It uses some core Java features like Swing and Networking (socket programming).
 
 
-![chat server](https://user-images.githubusercontent.com/61617780/114541585-8cf5f200-9c74-11eb-8e65-ea62e8dc1db3.jpeg)
+![chat server new](https://user-images.githubusercontent.com/61617780/115395659-bd540800-a201-11eb-80e5-5ef3f4e5a3ea.jpeg)
