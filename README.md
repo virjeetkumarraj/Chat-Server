@@ -1,6 +1,6 @@
 # Chat Server Application
 
-**This is a simple Chat Server application that is made up of a combination of two applications, Server (which runs on the server side) and Client (which runs on the client side).
+**This is a simple Chat Server that comprises of two applications, Server (which runs on the server-side) and Client (which runs on the client-side).
 What happened here is that the server program has sent data to the client upon request and the client program has printed it out to the terminal and vice versa.**
 
 * **Language Used:** Core Java
