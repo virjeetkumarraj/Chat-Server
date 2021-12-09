@@ -1,7 +1,6 @@
 # Chat Server Application
 
-**This is a simple Chat Server that comprises of two applications, Server (which runs on the server-side) and Client (which runs on the client-side).
-What happened here is that the server program has sent data to the client upon request and the client program has printed it out to the terminal and vice versa.**
+**This Chat Server comprises of two applications, Server and Client, where the server program will send data to the client upon request, and the client program will print it out to its terminal and vice versa.**
 
 * **Language Used:** Core Java
 * **Concept Used:** Swing and Networking ([Socket Programming](https://www.javatpoint.com/socket-programming))
@@ -20,4 +19,4 @@ What happened here is that the server program has sent data to the client upon r
 *Websites:* 
 * https://medium.com/javarevisited/fundamentals-of-socket-programming-in-java-bc9acc30eaf4
 * https://stackoverflow.com/
-* https://www.javatpoint.com/
+* https://www.javatpoint.com/ 
